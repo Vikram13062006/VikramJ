@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Koushik Reddy!
+# 👋 Hello, I'm JAINI VIKRAM!
 
-🎓 Final year student | 💻 Passionate Developer | 🌱 Learning React, Node.js & more
+🎓 Second year student | 💻 Passionate Developer | 🌱 Learning React, Node.js, java & more
 
 ---
 
